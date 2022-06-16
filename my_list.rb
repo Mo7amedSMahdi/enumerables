@@ -13,7 +13,7 @@ class MyList
             yield @list[counter]
       counter += 1
         end
-        @lis
+        @list
     end
 end
 list = MyList.new(1, 2, 3, 4)
