@@ -10,9 +10,9 @@ In this project you will learn how to use a module inside class. For this you wi
 
 ## Setup
 
-`git clone https://github.com/Mo7amedSMahdi/enumerables.git`
-`cd enumerables`
-`ruby my_list.rb`
+- `git clone https://github.com/Mo7amedSMahdi/enumerables.git`
+- `cd enumerables`
+- `ruby my_list.rb`
 
 ## Authors
 
